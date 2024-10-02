@@ -1,0 +1,7 @@
+paddlepaddle
+openvino
+opencv-python 
+tqdm
+pyclipper>=1.2.1
+numpy
+shapely
